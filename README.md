@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Kadirysr
 - 👀 I’m interested in everything about DATA 
-- 🌱 I’m currently learning Data Science
 - 📫 https://www.linkedin.com/in/kadiryasar/
